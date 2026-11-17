@@ -37,5 +37,8 @@
     "tailwindcss": "^4.3.3",
     "vite": "^8.3.3"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "overrides": {
+    "follow-redirects": "1.16.2"
+  }
 }
